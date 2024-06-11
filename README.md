@@ -18,15 +18,19 @@ o pedido, será automaticamente redirecionado para o WhatsApp, onde enviará seu
 
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+<img src="https://drive.usercontent.google.com/download?id=179b_f_3vuMK-xdpPvX9HE8BR0itqeLVo" alt="class 1" width="800"/>
+<img src="https://drive.usercontent.google.com/download?id=1RCcEJwnhgb0Eb3uTTUxKdaJAXY0D8Lz-" alt="class 2" width="500"/>
 
 # Tecnologias utilizadas
+- TypeScript
 - React Native
+- Expo
+- Expo Go
+- Tailwind
 - Firebase
+- Draw.io
 - Figma
-- Google Drive
-
-
+  
  ## Execução do Projeto
 Para executar o projeto, siga as instruções abaixo. Em caso de dúvidas, consulte a documentação oficial do React Native.
 https://reactnative.dev/docs/environment-setup
